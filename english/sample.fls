@@ -1,6 +1,6 @@
-PWD c:\Users\arthu\OneDrive\Documents\Document\CV\english
+PWD c:\Users\arthu\OneDrive\Documents\Professionnel\CV\CV\english
 INPUT C:\Users\arthu\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\arthu\OneDrive\Documents\Document\CV\english\sample.tex
+INPUT c:\Users\arthu\OneDrive\Documents\Professionnel\CV\CV\english\sample.tex
 OUTPUT sample.log
 INPUT .\altacv.cls
 INPUT altacv.cls
@@ -426,9 +426,20 @@ INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\sample.out
+INPUT .\sample.out
+INPUT sample.out
+INPUT sample.out
+INPUT .\sample.out
+INPUT .\sample.out
 OUTPUT sample.out
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 OUTPUT sample.bcf
+INPUT sample.bbl
+INPUT .\sample.bbl
+INPUT .\sample.bbl
+INPUT .\sample.bbl
+INPUT sample.bbl
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\roboto\t1robotoslab-tlf.fd
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\roboto\t1robotoslab-tlf.fd
@@ -437,6 +448,7 @@ INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\google\roboto\Robot
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\google\roboto\RobotoSlab-Bold-tlf-t1.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF.tfm
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-BoldItalic-T1-TLF.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree0.fd
@@ -499,9 +511,11 @@ INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\vf\google\roboto\RobotoSlab-Bold-tlf-t1.vf
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\google\roboto\RobotoSlab-Bold-tlf-t1--base.tfm
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\roboto\rbto_j2bk2t.enc
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-BoldItalic-T1-TLF.vf
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-BoldItalic-T1-TLF--base.tfm
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lato\a_cl4kdn.enc
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Bold-T1-TLF.vf
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Bold-T1-TLF--base.tfm
-INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lato\a_cl4kdn.enc
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free0.enc
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\vf\typoland\lato\Lato-Regular-T1-TLF.vf
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-Regular-T1-TLF--base.tfm
@@ -529,6 +543,7 @@ INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\tfm\typoland\lato\Lato-
 INPUT sample.aux
 INPUT .\sample.out
 INPUT .\sample.out
+INPUT sample.run.xml
 OUTPUT sample.run.xml
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Brands-Regular.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Brands-Regular.pfb
@@ -538,6 +553,8 @@ INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesom
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Bold.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Bold.pfb
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-BoldItalic.pfb
+INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-BoldItalic.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Italic.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Italic.pfb
 INPUT C:\Users\arthu\AppData\Local\Programs\MiKTeX\fonts\type1\typoland\lato\Lato-Regular.pfb
